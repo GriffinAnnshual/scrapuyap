@@ -12,7 +12,7 @@ import random
 import requests
 from bs4 import BeautifulSoup, NavigableString, Tag
 
-API_KEY = ''  # 2Captcha API key
+API_KEY = 'f1cdbdbd3357575132c52ad08977dda9'  # 2Captcha API key
 def setup_driver():
     ua = UserAgent()
     user_agent = ua.random
@@ -105,8 +105,7 @@ def process_line(line, pageurl):
         
         html = driver.page_source
         soup = BeautifulSoup(html, 'html.parser')
-        table = soup.find('table', attrs={'class': 'table table-hover dt-responsive dataTable no-footer dtr-inline'})
-        
+        table = soup.find('table', {'id': 'detayAramaSonuclar'})
         if table is None:
             print("couldn't find table.")
             return
@@ -141,12 +140,15 @@ def process_line(line, pageurl):
                     if text:
                         satirlar.append(next_s)
             
-            file_name = data[hilal - 1][1].replace('/', ' ') + " " + data[hilal - 1][2].replace('/', ' ')
+            file_name = 'Esas:'+ data[hilal - 1][1].replace('/', ' ') + " " + 'Karar:' + data[hilal - 1][2].replace('/', ' ')
             with open(f'{file_name}.txt', 'w', encoding='utf-8') as esas:
                 for satir in satirlar:
                     esas.write(satir)
                     esas.write('\n')
             hilal += 1
+        
+        print(data)
+        
     except Exception as e:
         print(f"error: {e}")
     finally:
@@ -154,10 +156,7 @@ def process_line(line, pageurl):
 
 def wait_for_table_to_load(driver):
     try:
-        
-        WebDriverWait(driver, 400).until(
-            EC.presence_of_element_located((By.CLASS_NAME, 'table'))
-        )
+        time.sleep(3)
     except Exception as e:
         print(f"error while loading data table: {e}")
 
