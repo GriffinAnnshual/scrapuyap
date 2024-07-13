@@ -88,6 +88,8 @@ def process_line(line, pageurl):
     try:
         driver.get(pageurl)
         human_like_actions(driver)
+    
+        
         
         # Try to find the CAPTCHA element and get its sitekey
         try:
@@ -96,8 +98,9 @@ def process_line(line, pageurl):
         except Exception as e:
             is_display_captcha_element = None # skips the captcha process
 
+
         """
-        -> Uncomment the following code to test captcha functionality!
+        -> Uncomment the below code and comment above one to test captcha functionality!
 
         while True:
             print("Trying to find CAPTCHA element...")
@@ -105,13 +108,15 @@ def process_line(line, pageurl):
             try:
                 # Locate the CAPTCHA element by class name
                 is_display_captcha_element = driver.find_element(By.CLASS_NAME, "g-recaptcha")
+                sitekey = is_display_captcha_element.get_attribute('data-sitekey')
                 if is_display_captcha_element:
                     print("CAPTCHA element found.")
                     print(is_display_captcha_element.get_attribute('data-sitekey'))
                     break
             except Exception as e:
                 continue
-        """ 
+
+        """
 
         
         # If CAPTCHA element is found, solve the CAPTCHA
