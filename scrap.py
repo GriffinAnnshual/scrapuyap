@@ -20,18 +20,29 @@ load_dotenv(override=True)
 
 API_KEY = os.getenv("API_KEY")  # 2Captcha API key
 
+# def setup_driver():
+#     ua = UserAgent()
+#     user_agent = ua.random
+#     print(f"Kullanıcı Ajanı: {user_agent}")
+#     options = Options()
+#     options.add_argument(f'--user-agent={user_agent}')
+#     options.add_argument('--ignore-certificate-errors')
+#     options.add_argument('--ignore-ssl-errors')
+#     options.add_argument('--disable-web-security')
+
+#     service = Service(ChromeDriverManager().install())
+#     driver = webdriver.Chrome(service=service, options=options)
+#     return driver
+
 def setup_driver():
-    ua = UserAgent()
-    user_agent = ua.random
-    print(f"Kullanıcı Ajanı: {user_agent}")
-    options = Options()
-    options.add_argument(f'--user-agent={user_agent}')
-    options.add_argument('--ignore-certificate-errors')
-    options.add_argument('--ignore-ssl-errors')
-    options.add_argument('--disable-web-security')
+    chrome_options = Options()
+    chrome_options.add_argument("--headless")
+    chrome_options.add_argument("--disable-gpu")
+    chrome_options.add_argument("--no-sandbox")
+    chrome_options.add_argument("--disable-dev-shm-usage")
 
     service = Service(ChromeDriverManager().install())
-    driver = webdriver.Chrome(service=service, options=options)
+    driver = webdriver.Chrome(service=service, options=chrome_options)
     return driver
 
 def solve_captcha(driver, sitekey, pageurl):
