@@ -204,7 +204,7 @@ def process_line(line, pageurl):
             
             file_name = 'Esas:' + data[hilal - 1][1].replace('/', ' ') + " " + 'Karar:' + data[hilal - 1][2].replace('/', ' ')
             sanitized_file_name = sanitize_file_name(file_name)
-            with open(f'{sanitized_file_name}.txt', 'w', encoding='utf-8') as esas:
+            with open(f'./output/{sanitized_file_name}.txt', 'w', encoding='utf-8') as esas:
                 for satir in satirlar:
                     esas.write(satir)
                     esas.write('\n')
