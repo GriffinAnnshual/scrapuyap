@@ -198,7 +198,7 @@ def process_line(line, pageurl):
         
         # Iterate over the data and process each row
         hilal = 1
-        max_documents = 5 
+        max_documents = 30
         while hilal <= max_documents and hilal <= len(data):
             element = WebDriverWait(driver, 40).until(
                 EC.element_to_be_clickable((By.ID, str(hilal)))
