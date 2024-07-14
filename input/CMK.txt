@@ -1,0 +1,413 @@
+Görev
+Re'sen görev kararı
+Görevde uyuşmazlık
+Görevsizlik kararı 
+Görevsizlik kararı verilmesi gereken hâl ve sonucu
+Görevsizlik kararı verilemeyecek hâl
+Görevli olmayan hâkim veya mahkemenin işlemleri
+Bağlantılı Davalar
+Bağlantı kavramı
+Davaların birleştirilerek açılması 
+Görülmekte olan davaların birleştirilmesi ve ayrılması
+Geniş bağlantı sebebiyle birleştirme 
+Yetki
+Yetkili mahkeme
+Özel yetki
+Yabancı ülkede işlenen suçlarda yetki
+Deniz, hava ve demiryolu taşıtlarında veya bu taşıtlarla işlenen suçlarda yetki
+Bağlantılı suçlarda yetki
+Yetkide olumlu veya olumsuz uyuşmazlık
+Yetkisizlik iddiası
+Davanın nakli ve duruşmanın başka yerde yapılması
+Yetkili olmayan hâkim veya mahkemenin işlemleri
+Gecikmesinde sakınca bulunan hâllerde yapılan işlemler
+Hâkimin Davaya Bakamaması ve Redd
+Hâkimin davaya bakamayacağı hâller
+Yargılamaya katılamayacak hâkim
+Hâkimin reddi sebepleri
+Ret isteminde bulunabilecekler
+Tarafsızlığını şüpheye düşürecek sebeplerden dolayı hâkimin reddi isteminin süresi
+Ret isteminin usulü
+Hâkimin reddi istemine karar verecek mahkeme
+Ret istemi üzerine verilecek kararlar ve başvurulacak kanun yolları
+Reddi istenen hâkimin yapabileceği işlemler
+Hâkimin çekinmesi ve inceleme mercii
+Ret isteminin geri çevrilmesi
+Zabıt kâtibinin reddi veya çekinmesi
+Kararlar, Açıklanması ve Tebliği, Süreler ve Eski Hâle Getirme
+Kararların verilmesi usulü 
+Kararların gerekçeli olması 
+Kararların açıklanması ve tebliği
+Tebligat ve yazışma usulü
+Tebligat usulleri
+Cumhuriyet Başsavcılığına yapılan tebligat
+Elektronik işlemler
+Sürelerin hesaplanması
+Eski hâle getirme
+Eski hâle getirme dilekçesi
+Eski hâle getirme dilekçesi üzerine verilecek karar
+Tanıklık, Bilirkişi İncelemesi ve Keşif
+Tanıklık
+Tanıkların çağrılması
+Çağrıya uymayan tanıklar
+Tanıklıktan çekinme
+tanıklıktan çekinebilir
+Meslek ve sürekli uğraşıları sebebiyle tanıklıktan çekinme
+Devlet sırrı niteliğindeki bilgilerle ilgili tanıklık
+Kendisi veya yakınları aleyhine tanıklıktan çekinme
+Tanıklıktan çekinme sebebinin bildirilmesi
+Yemin verilmeyen tanıklar
+Tanıklıktan çekinebilecek kimsenin çekinmemesi
+Tanıkların dinlenmesi 
+Tanığa görevinin önemini anlatma
+Tanıklara yemin verilmesi
+Yeminin biçimi
+Yeminin yerine getirilmesi, sağır veya dilsizin yemini
+Tanığın tekrar dinlenmesi
+Tanığa ilk önce sorulacak hususlar ve tanığın korunması
+Tanığa söylenecek şeyler ve sorulacak sorular
+Tanıklıktan ve yeminden sebepsiz çekinme 
+Tanığa verilecek tazminat ve giderler
+Bilirkişi İncelemesi
+Bilirkişilere uygulanacak hükümler
+Bilirkişinin atanması
+Bilirkişi olarak atanabilecekler
+Bilirkişiliği kabul yükümlülüğü
+Atama kararı ve incelemelerin yürütülmesi
+Bilirkişi raporu, uzman mütalaası 
+Duruşmada bilirkişinin açıklaması
+Bilirkişinin reddi
+Bilirkişilikten çekinme, bilirkişi olarak dinlenemeyenler
+Görevini yapmayan bilirkişi hakkındaki işlem
+Bilirkişi gider ve ücreti
+Sahte para ve değerler üzerinde yapılacak incelemeler
+Gözlem Altına Alınma, Muayene, Keşif ve Otops
+Gözlem altına alınma
+Şüpheli veya sanığın beden muayenesi ve vücudundan örnek alınması
+Diğer kişilerin beden muayenesi ve vücuttan örnek alınması
+Kadının muayenesi
+Moleküler genetik incelemeler
+Hâkimin kararı ve inceleme yapılması
+Genetik inceleme sonuçlarının gizliliği
+Fizik kimliğin tespiti
+Yönetmelik
+Keşif
+Keşifte, tanık veya bilirkişinin dinlenmesinde bulunabilecekler
+Yer gösterme 
+Ölünün kimliğini belirleme ve adlî muayene 
+Otopsi 
+Yeni doğanın cesedinin adlî muayenesi veya otopsi
+Zehirlenme şüphesi üzerine yapılacak işlem
+Koruma Tedbirleri
+Yakalama ve Gözaltı
+Yakalama ve yakalanan kişi hakkında yapılacak işlemler
+Gözaltı
+Gözaltı işlemlerinin denetimi 
+Yakalanan veya tutuklanan kişilerin nakli
+Yakalanan kişinin mahkemeye götürülmesi
+Yakalanan veya gözaltına alınanın durumunun yakınlarına bildirilmesi
+Yakalamanın ilgililere bildirilmesi 
+Yakalama tutanağı
+Yakalama emri ve nedenleri
+Yönetmelik
+Tutuklama nedenleri
+Tutuklama
+Tutuklama kararı
+Tutuklulukta geçecek süre
+Cumhuriyet savcısının tutuklama kararının geri alınmasını istemesi
+Şüpheli veya sanığın salıverilme istemleri 
+Usul 
+Salıverilenin yükümlülükleri
+Tutuklananın durumunun yakınlarına bildirilmesi
+Tutukluluğun incelenmesi
+Adlî Kontrol
+Adlî kontrol kararı ve hükmedecek merciler
+Adli kontrol altında geçecek süre
+Adlî kontrol kararının kaldırılması 
+Tedbirlere uymama
+Güvence
+Önceden ödetme
+Güvencenin geri verilmesi
+Arama ve Elkoyma
+Şüpheli veya sanıkla ilgili arama
+Diğer kişilerle ilgili arama
+Gece yapılacak arama
+Arama kararı
+Aramada hazır bulunabilecekler
+Arama sonunda verilecek belge
+Belge veya kâğıtları inceleme yetkisi
+Eşya veya kazancın muhafaza altına alınması ve bunlara elkonulması
+İstenen eşyayı vermeyenler hakkında yapılacak işlem
+İçeriği Devlet sırrı niteliğindeki belgelerin mahkemece incelenmesi 
+Elkonulamayacak mektuplar, belgeler
+Elkoyma kararını verme yetkisi
+Taşınmazlara, hak ve alacaklara elkoyma
+Postada elkoyma
+Avukat bürolarında arama
+Avukat bürolarında arama, elkoyma ve postada elkoyma
+Elkonulan eşyanın iadesi 
+Elkonulan eşyanın muhafazası veya elden çıkarılması 
+Şirket yönetimi için kayyım tayini
+Bilgisayarlarda, bilgisayar programlarında ve kütüklerinde arama, kopyalama
+ve elkoyma
+Telekomünikasyon Yoluyla Yapılan İletişimin Denetlenmesi 
+İletişimin tespiti, dinlenmesi ve kayda alınması
+İletişimin tespiti
+İletişimin dinlenmesi
+İletişimin kayda alınması
+Müdafiin bürosu ve yerleşim yeri
+Kararların yerine getirilmesi, iletişim içeriklerinin yok edilmesi
+Tesadüfen elde edilen deliller
+Gizli soruşturmacı görevlendirilmesi
+Gizli Soruşturmacı ve Teknik Araçlarla İzleme
+Teknik araçlarla izleme
+Teknik araçla izleme
+Tazminat istemi
+Koruma Tedbirleri Nedeniyle Tazminat
+Tazminat isteminin koşulları
+Tazminatın geri alınması
+Tazminat isteyemeyecek kişiler
+İfade ve Sorgu
+İfade veya sorgu için çağrı
+Zorla getirme
+İfade ve Sorgu Usulü
+İfade ve sorgunun tarzı
+İfade alma ve sorguda yasak usuller
+Savunma
+Müdafi Seçimi, Görevlendirilmesi, Görev ve Yetkileri
+Şüphelinin veya sanığın müdafi seçimi
+
+Şüpheli veya sanık, soruşturma ve kovuşturmanın her aşamasında
+bir veya birden fazla müdafiin yardımından yararlanabilir; kanunî temsilcisi varsa, o da
+şüpheliye veya sanığa müdafi seçebilir
+Müdafiin görevlendirilmesi
+
+Müdafi görevini yerine getirmediğinde yapılacak işlem ve müdafilik görevinden
+yasaklanma
+Şüpheli veya sanığın birden fazla olması hâlinde savunma
+Müdafiin dosyayı inceleme yetkisi
+Müdafi ile görüşme
+Kanunî temsilci veya eşin duruşmada hazır bulunması
+Müdafiin görevlendirilmesinde usul
+Soruşturma
+Suçlara İlişkin İhbarlar ve Soruşturma
+Suçlara İlişkin İhbarlar ve Soruşturma
+Soruşturmanın gizliliği
+İhbar ve şikâyet
+Şüpheli ölümün ihbarı
+Soruşturma İşlemleri
+Bir suçun işlendiğini öğrenen Cumhuriyet savcısının görevi
+Cumhuriyet savcısının görev ve yetkileri
+Soruşturmada Cumhuriyet savcısının hâkim kararı istemi
+Soruşturmanın sulh ceza hâkimi tarafından yapılması
+Adlî kolluk ve görevi
+Diğer kolluk birimlerinin adlî kolluk görevi
+Değerlendirme raporu yetkisi
+Yönetmelik
+Adlî kolluğun olay yerinde aldığı tedbirlere uyulmaması halinde yetkisi
+Soruşturma evresinde yapılan işlemlerin tutanağa bağlanması
+Kamu Davasının Açılması
+Kamu davasını açma görevi
+Kamu davasını açmada takdir yetkisi
+
+Kovuşturmaya Yer Olmadığına Dair Karar, İtiraz ve İddianamenin İadesi
+Kovuşturmaya yer olmadığına dair karar
+Cumhuriyet savcısının kararına itiraz
+İddianamenin iadesi
+Kovuşturma Evresi
+Kamu Davasının Yürütülmesi
+Duruşma Hazırlığı
+İddianamenin kabulü ve duruşma hazırlığı 
+İddianamenin sanığa tebliği ve sanığın çağrılması
+Sanığın savunma delillerinin toplanması istemi
+Çağrılması reddedilen tanığın ve uzman kişinin doğrudan mahkemeye getirilmesi 
+Çağrılan tanıkların ad ve adreslerinin sanığa ve Cumhuriyet savcısına bildirilmesi
+Tanık ve bilirkişinin naiple veya istinabe yoluyla dinlenmeleri 
+Tanık ve bilirkişinin dinleneceği günün bildirilmesi
+Duruşma
+Duruşmanın açıklığı 
+Ses ve görüntü alıcı aletlerin kullanılması yasağı
+Açıklığın kaldırılması hakkında karar
+Zorunlu kapalılık
+
+Sanık, onsekiz yaşını doldurmamış ise duruşma kapalı yapılır;
+hüküm de kapalı duruşmada açıklanır
+
+Kapalılık kararının ve nedenlerinin yazılması
+Kapalı duruşmada bulunabilme
+Duruşmada hazır bulunacaklar
+Birden çok Cumhuriyet savcısı ve avukatın duruşmaya katılması
+Ara verme
+Duruşmanın başlaması
+Başkan veya hâkimin görevi
+Sanığın duruşmada hazır bulunmaması
+Sanığın mahkemeden uzaklaşması
+Sanığın yokluğunda duruşma
+Sanığın duruşmadan bağışık tutulması 
+Sanığın müdafi gönderebilmesi
+Sanık hazır bulunmaksızın yapılan duruşmada eski hâle getirme koşulu
+Sanığın zorla getirilebilmesi
+Sorgu sırasında sanığın mahkeme salonundan çıkarılabilmesi
+Doğrudan soru yöneltme
+Tercüman bulundurulacak hâller
+Duruşmanın Düzen ve Disiplini
+Hâkim veya başkanın yetkisi 
+Sanığın dışarı çıkarılması
+Duruşma sırasında işlenen suç hakkında işlem
+Delillerin Ortaya Konulması ve Tartışılması
+Delillerin ortaya konulması ve reddi
+Delil ve olayın geç bildirilmesi
+Tanığın duruşma salonundan ayrılması
+Duruşmada anlatılması zorunlu belge ve tutanaklar
+Duruşmada okunmayacak belgeler
+Duruşmada okunmasıyla yetinilebilecek belgeler
+Tanığın önceki ifadesinin okunması
+Sanığın önceki ifadesinin okunması 
+Rapor, belge ve diğer yazıların okunması
+Dinleme ve okumadan sonra diyeceğin sorulması
+Delillerin tartışılması
+Delilleri takdir yetkisi
+Ceza mahkemelerinin ek yetkisi
+Duruşma Tutanağı
+Duruşma tutanağının başlığı
+Duruşma tutanağının içeriği 
+Kamu Davasının Sona Ermesi
+Duruşmanın sona ermesi ve hüküm
+Karar ve hükümlerde gerekli oy sayısı
+Hükmün konusu ve suçu değerlendirmede mahkemenin yetkisi
+Suç Niteliğinde Değişiklik
+Suçun niteliğinin değişmesi
+Karar ve Hüküm
+Müzakereye katılacak hâkimler
+Müzakerenin yönetimi
+Oyların toplanması
+Hükmün gerekçesinde gösterilmesi gereken hususlar
+Hükmün açıklanması ve hükmün açıklanmasının geri bırakılması
+Hükmün gerekçesi ve hüküm fıkrasının içereceği hususlar
+Mağdur, Şikâyetçi, Malen Sorumlu, Katılan
+Suçun Mağduru ile Şikâyetçinin Hakları
+Suçun mağduru ile şikâyetçinin çağırılması
+Mağdur ile şikâyetçinin hakları
+Mağdur ile şikâyetçinin davete uymamaları
+Mağdur ile şikâyetçinin dinlenmesi
+Kamu davasına katılma
+Katılma usulü
+Katılanın hakları
+Katılmanın davaya etkisi
+Katılmadan önceki kararlara itiraz
+Katılanın kanun yoluna başvurması
+Katılmanın hükümsüz kalması
+Özel Yargılama Usulleri
+
+Gaiplerin ve Kaçakların Yargılanması, Tüzel Kişilerin Soruşturmada ve
+Kovuşturmada Temsili, Bazı Suçlara İlişkin Muhakeme Usulü
+Gaiplerin Yargılanması
+Gaibin tanımı ve yapılabilecek işlemler
+Gaibe ihtar
+Sanığa verilecek güvence belgesi
+Kaçakların Yargılanması
+Kaçağın tanımı
+Zorlama amaçlı elkoyma ve teminat belgesi
+Tüzel Kişilerin Soruşturmada ve Kovuşturmada Temsili
+Tüzel kişinin temsili
+Bazı Suçlara İlişkin Muhakeme
+Seri muhakeme usulü
+Basit yargılama usulü
+Basit yargılama usulünde itiraz
+Uzlaşma ve Müsadere
+Uzlaşma
+Uzlaştırma
+Mahkeme tarafından uzlaştırma
+Birden çok fail bulunması hâlinde uzlaşma
+Müsadere Usulü
+Başvuru
+Duruşma ve karar
+Kanun yolu
+Suç konusu olmayan eşyanın müsaderesi
+Kanun Yolları
+Kanun yollarına başvurma hakkı
+Avukatın başvurma hakkı
+Yasal temsilcinin ve eşin başvurma hakkı
+Tutuklunun kanun yollarına başvurması
+Kanun yolunun belirlenmesinde yanılma
+Cumhuriyet savcısının başvuru sonucunun kapsamı
+Başvurudan vazgeçilmesi ve etkisi
+Olağan Kanun Yolları
+İtiraz
+İtiraz olunabilecek kararlar
+İtiraz usulü ve inceleme mercileri
+İtirazın kararın yerine getirilmesinde etkisi
+
+İtirazın Cumhuriyet savcısına ve karşı tarafa tebliği ile inceleme ve araştırma
+yapılması
+
+İstinaf
+Eski hâle getirme süresi içinde istinaf süresinin işlemesi 
+İstinaf başvurusunun etkisi
+İstinaf isteminin hükmü veren mahkemece reddi
+İstinaf isteminin tebliği ve cevabı
+Dosyanın bölge adliye mahkemesinde tevzii
+Dosya üzerinde ön inceleme
+Bölge adliye mahkemesinde inceleme ve kovuşturma
+Duruşma hazırlığı
+İstisnalar
+Sanık lehine başvurma hâlinde verilecek hüküm
+Direnme yasağı
+Özel kanunların temyize ilişkin hükümleri
+Temyiz
+Hükümden önceki kararların temyizi
+Temyiz nedeni
+Hukuka kesin aykırılık hâlleri
+Sanığın yararına olan kurallara aykırılık
+Temyiz istemi ve süresi
+Eski hâle getirme süresi içinde temyiz süresinin işlemesi 
+Temyiz başvurusunun etkisi
+Temyiz başvurusunun içeriği
+Temyiz gerekçesi
+
+Temyiz isteminin kabule değer sayılmamasından dolayı hükmü veren
+mahkemece reddi
+Temyiz dilekçesinin tebliği ve cevabı, Yargıtay Cumhuriyet Başsavcılığının görevi
+Temyiz isteminin reddi
+Duruşmalı inceleme
+Duruşmada usul
+Temyizde incelenecek hususlar
+Temyiz isteminin esastan reddi veya hükmün bozulması
+Yargıtayca davanın esasına hükmedilecek hâller, hukuka aykırılığın düzeltilmesi
+Yargıtay kararının gönderileceği merci
+Yargıtayda hükmün açıklanması
+Hükmün bozulmasının diğer sanıklara etkisi
+Davaya yeniden bakacak mahkemenin işlemleri
+Olağanüstü Kanun Yolları
+Cumhuriyet Başsavcısının İtiraz Yetkisi
+Yargıtay Cumhuriyet Başsavcısının itiraz yetkisi
+Bölge adliye mahkemesi Cumhuriyet başsavcılığının itiraz yetkisi
+Kanun yararına bozma
+Yargıtay Cumhuriyet Başsavcısının kanun yararına başvurması
+Yargılamanın Yenilenmesi
+Hükümlü lehine yargılamanın yenilenmesi nedenleri
+İnfazın geri bırakılması veya durdurulması
+Yargılamanın yenilenmesine engel olmayan hâller
+Sanık veya hükümlünün aleyhine yargılamanın yenilenmesi nedenleri
+Yargılamanın yenilenmesinin kabul edilmeyeceği hâl
+Bir suça dayanan yenileme istemlerinin kabulü koşulları
+Yenileme istemi hakkında uygulanacak hükümler
+Yenileme isteminin kabule değer olup olmadığı kararı ve mercii
+Yenileme isteminin kabule değer görülmemesi nedenleri ve kabulü hâlinde
+yapılacak işlem
+Delillerin toplanması
+Yenileme isteminin esassız olmasından dolayı reddi, aksi takdirde kabulü
+Duruşma yapılmaksızın yenileme isteminin incelenmesi
+Yeniden duruşma sonucunda verilecek hüküm
+Yargılama Giderleri ve Çeşitli Hükümler
+Yargılama Giderleri
+Sanığın yükümlülüğü
+Bağlantılı davalarda giderler
+Beraat veya ceza verilmesine yer olmadığı kararı verilmesi hâlinde gider
+Karşılıklı hakaret hâllerinde gider
+Suç uydurma ve iftira gibi hâllerde gider
+Kanun yollarına başvuru sonucunda gider
+Adlî tatil
+Bilgi isteme
+Yönetmelik
+Kolluk görevlilerine yönelik özel hükümler

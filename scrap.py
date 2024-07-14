@@ -14,11 +14,15 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 from bs4 import BeautifulSoup, NavigableString, Tag
 import re
 import os
+import boto3
 from dotenv import load_dotenv
 
 load_dotenv(override=True)
 
 API_KEY = os.getenv("API_KEY")  # 2Captcha API key
+AWS_ACCESS_KEY_ID = os.getenv("AWS_ACCESS_KEY_ID")
+AWS_SECRET_ACCESS_KEY = os.getenv("AWS_SECRET_ACCESS_KEY")
+AWS_BUCKET_NAME = os.getenv("AWS_BUCKET_NAME")
 
 # def setup_driver():
 #     ua = UserAgent()
@@ -96,11 +100,11 @@ def sanitize_file_name(file_name):
 def process_line(line, pageurl):
     print("Process started...")
     driver = setup_driver()
+
     try:
         driver.get(pageurl)
         human_like_actions(driver)
-    
-        
+
         
         # Try to find the CAPTCHA element and get its sitekey
         try:
@@ -194,7 +198,8 @@ def process_line(line, pageurl):
         
         # Iterate over the data and process each row
         hilal = 1
-        while hilal < 6 and hilal <= len(data):
+        max_documents = 5 
+        while hilal <= max_documents and hilal <= len(data):
             element = WebDriverWait(driver, 40).until(
                 EC.element_to_be_clickable((By.ID, str(hilal)))
             )
@@ -215,11 +220,21 @@ def process_line(line, pageurl):
             
             file_name = 'Esas:' + data[hilal - 1][1].replace('/', ' ') + " " + 'Karar:' + data[hilal - 1][2].replace('/', ' ')
             sanitized_file_name = sanitize_file_name(file_name)
-            with open(f'./output/{sanitized_file_name}.txt', 'w', encoding='utf-8') as esas:
+            base_path = os.getcwd()
+            output_dir = os.path.join(base_path, 'output')
+            os.makedirs(output_dir, exist_ok=True)
+            with open(os.path.join(output_dir, f'{sanitized_file_name}.txt'), 'w', encoding='utf-8') as esas:
                 for satir in satirlar:
                     esas.write(satir)
                     esas.write('\n')
             print("File Saved: ", file_name + '.txt')
+
+            # Upload to S3
+            upload_to_s3( os.path.join(output_dir, f'{sanitized_file_name}.txt'), AWS_BUCKET_NAME, f'{sanitized_file_name}.txt')
+            
+            # Remove file from output directory after uploading to S3
+            os.remove(os.path.join(output_dir, f'{sanitized_file_name}.txt'))
+
             hilal += 1
             
     except Exception as e:
@@ -233,7 +248,35 @@ def wait_for_table_to_load(driver):
     except Exception as e:
         print(f"Error while loading data table: {e}")
 
-with open('TMK.txt', 'r', encoding="utf-8") as tmk:
-    pageurl = "https://emsal.uyap.gov.tr/#"
-    for line in tmk.readlines():
-        process_line(line, pageurl)
+def upload_to_s3(file_path, bucket, object_name):
+
+    s3_client = boto3.client('s3',
+                             aws_access_key_id=AWS_ACCESS_KEY_ID,
+                             aws_secret_access_key=AWS_SECRET_ACCESS_KEY)
+    try:
+        # Check if the object already exists in the bucket
+        s3_client.head_object(Bucket=bucket, Key=object_name)
+        print(f"File already exists in S3: {object_name}. Skipping upload.")
+    except s3_client.exceptions.ClientError as e:
+        if e.response['Error']['Code'] == '404':
+            # Object does not exist, proceed with upload
+            try:
+                s3_client.upload_file(file_path, bucket, object_name)
+                print(f"File successfully uploaded: {file_path}")
+
+            except Exception as e:
+                print(f"Error occurred while uploading file: {e}")
+        else:
+            # Something else has gone wrong.
+            print(f"Error checking if file exists: {e}")
+
+
+input_dir = os.path.join(os.getcwd(), 'input')
+
+for file_name in os.listdir(input_dir):
+    if file_name.endswith('.txt'):
+        file_path = os.path.join(input_dir, file_name)
+        with open(file_path, 'r', encoding="utf-8") as file:
+            pageurl = "https://emsal.uyap.gov.tr/#"
+            for line in file.readlines():
+                process_line(line, pageurl)
